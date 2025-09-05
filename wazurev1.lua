@@ -2504,3 +2504,4 @@ function WazureV1:Start(GuiConfig)
 	return Tabs
 end
 return WazureV1
+
